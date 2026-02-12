@@ -32,5 +32,43 @@ The dataset contains:
 - Item Price  
 - Quantity Sold  
 
-These were combined into a structured array:
+---
+
+## 💡 Why This Project Matters
+
+Understanding NumPy vectorization is essential because:
+
+- It improves performance compared to Python loops
+- It mirrors real-world data workflows
+- It builds foundational knowledge for Pandas, Machine Learning, and AI systems
+
+This project demonstrates structured thinking in data modeling and computational efficiency.
+
+---
+
+## 🚀 Future Improvements
+
+- Convert dataset into a Pandas DataFrame
+- Add visualizations (Matplotlib or Seaborn)
+- Expand into profit margin analysis
+- Implement file input/output (CSV integration)
+
+---
+
+## 🔧 Technologies Used
+
+- Python 3
+- NumPy
+- Jupyter Notebook
+
+---
+
+## 👤 About Me
+
+I'm currently preparing for Security+ and building Python + AI integration projects while completing my Bachelor's in Information Technology with a Marketing minor.
+
+My goal is to work in AI Engineering, Data Analytics, or Cloud Operations.
+
+---
+
 
